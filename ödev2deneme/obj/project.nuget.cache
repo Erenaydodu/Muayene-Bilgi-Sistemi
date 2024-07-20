@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "pvVGcNsuvP9V51xNrJHjTnnt5IvMegoUEyaXcorVn40Kp9C4ADfTtIoW368isnUxRt1LBiC1vLt0f7u6QLSKhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eaydo\\source\\repos\\ödev2deneme\\ödev2deneme\\ödev2deneme.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eaydo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\eaydo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\eaydo\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512",
+    "C:\\Users\\eaydo\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "C:\\Users\\eaydo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\eaydo\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\eaydo\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
